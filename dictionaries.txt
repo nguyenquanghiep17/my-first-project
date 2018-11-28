@@ -1,6 +1,0 @@
-good morning	chào buổi sáng
-game	trò chơi
-mouse	Con chuột
-continue	Tiếp tục
-one	một
-hello	xin chào
