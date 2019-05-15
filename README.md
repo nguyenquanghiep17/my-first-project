@@ -1,20 +1,4 @@
-# Thành viên và vai trò.
-	Product Owner: Nguyễn Đức Hoàng.
-	
-	ScrumMaster: Nguyễn Quang Hiệp.
-	
-	Nhóm Phát triển: - Nguyễn Quang Hiệp.
-			
-			 - Trần Văn Khải.
-			 
-			 - Đỗ Lương Khoa.
-			 
-			 - Nguyễn Mạnh Hiếu.
-			 
-			 - Nguyễn Đức Hoàng.
-	
 
-	
 # Tên ứng dụng: shop69
 
 # Nhóm người dùng
